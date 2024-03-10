@@ -7,6 +7,7 @@
 }
 .container {
   /* max-width: 1200px; */
+  height: 200vh;
   padding-left: 7rem;
   margin: auto;
   padding: 10px 10px;
@@ -115,9 +116,9 @@ header .themeSelector .activeTheme {
   background-color: var(--secondary_color);
   border: 0.063rem solid var(--brand_color);
   max-width: 1200px;
-  height: 60vh;
+  height: 75vh;
   margin-top: 190px;
-
+  /* height: 500px; */
   padding: 4.375rem 5.625rem;
   border-radius: 5px;
 }
